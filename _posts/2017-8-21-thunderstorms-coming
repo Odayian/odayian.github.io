@@ -1,6 +1,7 @@
+---
 layout: post
 title: Thunderstorms are coming
-
+---
 A few days ago, I came across a post on reddit that really piqued my interest. This post was pretty much what I wanted to accomplish as a side project but didn't have the proper knowlede to complete it. The concept overall is simple: parse a website for information, filter the content in to multiple objects,  post filtered informtion in to a chat program. For a better explanation of what I want to accomplish, you can view my post at: <link>.
 
 This rabbithole of a project ended up taking me to [GitHub Link](https://github.com/bearlikelion/ao-killbot) where I found out this is almost exactly what I want. I wanted to get things up and running for myself. I cloned the repository to my Cloud9 account (web based IDE) and started to play around.  At the time, the readme didn't have the best instructions. I'm pretty sure I'm the second person to open this repository. Eventually, everything got set up in my configuration and I go to Cloud9's console and type 'node ao-killbot.js' excited to see it connect to my Discord server. Well...it didnt. After some research and no luck, I finally messaged the creator of the project for some help. I had to use a special link for Discord to invite this application as a bot to my server. ```https://discordapp.com/oauth2/authorize?&client_id=<CLIENT ID>&scope=bot&permissions=0``` It still didn't work. Found out that you need to add a scope and permissions level to the URL. I hit Enter again and it's now connected to the Discord server and the console logged "Ready and running". Minutes later, information was being sent to a specific channel that was set up for this bot.
