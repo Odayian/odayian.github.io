@@ -32,5 +32,5 @@ Everything for the project is going to plan and should expect a full release onc
 ## Demo
 [URL: http://odayianblocjams.netlify.com]
 
-## ** Special Note: This case study is a part of my curriculum at Bloc.io and is not being release. 
+## ** Special Note: This case study is a part of my curriculum at [Bloc.io](http://bloc.io) and is not being released. 
 
