@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Bloc-Jams
-thumbnail-path: "img/blocjams.jpg"
+thumbnail-path: "img/blocjams.png"
 short-description: Build a production quality music player that allows users to play their favorite music
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams.jpg)
+![]({{ site.baseurl }}/img/blocjams.png)
 
 ## Explanation
 
