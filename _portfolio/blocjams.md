@@ -29,3 +29,8 @@ Bloc-Jams has been re-designed on the front-end to improve the consumer's experi
 
 Everything for the project is going to plan and should expect a full release once back-end development is complete. 
 
+## Demo
+[URL: http://odayianblocjams.netlify.com]
+
+## ** Special Note: This case study is a part of my curriculum at Bloc.io and is not being release. 
+
