@@ -30,7 +30,7 @@ Bloc-Jams has been re-designed on the front-end to improve the consumer's experi
 Everything for the project is going to plan and should expect a full release once back-end development is complete. 
 
 ## Demo
-[http://bdurbinblocjams.netlify.com]
+[Bloc-Jams](http://bdurbinblocjams.netlify.com)
 
 ## ** Special Note: This case study is a part of my curriculum at [Bloc.io](http://bloc.io) and is not being released. 
 
